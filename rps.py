@@ -360,5 +360,3 @@ def print_closer():
     print("           Thanks for playing")
     print("          Rock, Paper, Scissors!")
     print("----------------------------------------")
-if __name__ == "__main__":
-    rps()
